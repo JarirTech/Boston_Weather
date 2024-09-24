@@ -36,6 +36,7 @@ text-align: center;
 color: blue;
 
 }
+
 #weatherData {
     margin-top: 20px;
     padding: 20px;
@@ -44,20 +45,13 @@ color: blue;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
-#empty {
-margin-top:5px;
 
-
-background: url('weather4.jpeg') no-repeat center center/cover;
-}
 footer {
 text-align: center;
-
 padding:10px;
 background-color:#92a8d1;
 position: fixed;
 bottom: 0;
-
 width: 98%;
 color: white;
 }
